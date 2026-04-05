@@ -12,6 +12,7 @@ A 2D platformer game made in Unity.
 - **Left/Right Arrow Keys** - Move
 - **Up Arrow** - Jump
 - **Down Arrow** - Crouch
+- **Space** - Attack
 - **Escape** - Pause
 
 ## 🛠️ Built With
