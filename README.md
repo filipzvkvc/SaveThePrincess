@@ -6,7 +6,7 @@ A 2D platformer game made in Unity.
 [Play in Browser](https://filipzvkvc.itch.io/save-the-princess)
 
 ## 💾 Download
-[Download Installer](YOUR_GITHUB_RELEASE_LINK_HERE)
+[Download Installer](https://github.com/filipzvkvc/SaveThePrincess/releases/tag/v0.1)
 
 ## 🕹️ Controls
 - **A/D** or **Arrow Keys** - Move
