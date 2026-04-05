@@ -9,8 +9,9 @@ A 2D platformer game made in Unity.
 [Download Installer](https://github.com/filipzvkvc/SaveThePrincess/releases/tag/v0.1)
 
 ## 🕹️ Controls
-- **A/D** or **Arrow Keys** - Move
-- **Space** - Jump
+- **Left/Right Arrow Keys** - Move
+- **Up Arrow** - Jump
+- **Down Arrow** - Crouch
 - **Escape** - Pause
 
 ## 📸 Screenshots
